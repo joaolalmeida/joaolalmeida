@@ -1,4 +1,4 @@
-### Hi, i'am João Almeida! 👋
+### Hi, i'm João Almeida! 👋
 
 
 - 🔭 Trabalho atualmente como Assistente Administrativo
