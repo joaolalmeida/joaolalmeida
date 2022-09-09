@@ -8,12 +8,15 @@
 - 🔭 work as currently Administrative assistant
 - 🌱  I’m currently learning Javascript | React
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/joaolalmeida">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=joaolalmeida&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaolalmeida&layout=compact&langs_count=7&theme=aura"/>
 </div>
 </div>
+-->
+
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" />
 
 <br>
 
@@ -38,3 +41,4 @@
   ![Snake animation](https://github.com/joaolalmeida/joaolalmeida/blob/output/github-contribution-grid-snake.svg)
   
   </div>
+  
